@@ -1,25 +1,22 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Prawin%20Kumar&fontSize=75&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=AI%20Systems%20Architect%20%7C%20Founder%20@%20VyapAI&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=220&section=header&text=Prawin%20Kumar&fontSize=75&fontColor=c9d1d9&fontAlignY=35&animation=fadeIn&desc=AI%20Systems%20Engineer%20%7C%20Founder%20%40%20VyapAI&descSize=18&descColor=6e7681&descAlignY=55" width="100%" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://vyapai.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+production-grade+AI+systems+that+enterprises+deploy+on+day+one;Offline-first+%E2%80%A2+Citation-grounded+%E2%80%A2+Air-gap+capable;From+legal+intelligence+to+clinical+AI+to+M%26A+analysis" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Building+production-grade+AI+systems+for+real+infrastructure;Offline-first+%E2%80%A2+Citation-grounded+%E2%80%A2+Air-gap+capable;Private+AI+infrastructure+for+legal%2C+clinical+%26+enterprise+clients" alt="Typing SVG" />
 </p>
 
 <!-- Quick Links -->
 <p align="center">
-  <a href="https://vyapai.tech"><img src="https://img.shields.io/badge/🌐_vyapai.tech-Visit_Portfolio-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
-  <a href="mailto:prawin@vyapai.tech"><img src="https://img.shields.io/badge/📧_Email-prawin@vyapai.tech-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>&nbsp;
-  <a href="https://calendly.com/prawinin"><img src="https://img.shields.io/badge/📅_Book_a_Call-Calendly-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Calendly" /></a>
+  <a href="https://prawin.app"><img src="https://img.shields.io/badge/🌐_prawin.app-Portfolio_&_Open_Source-c9d1d9?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
+  <a href="https://vyapai.tech"><img src="https://img.shields.io/badge/🏢_vyapai.tech-AI_Engineering_Practice-6e7681?style=for-the-badge&labelColor=0d1117" alt="VyapAI" /></a>&nbsp;
+  <a href="mailto:prawin@vyapai.tech"><img src="https://img.shields.io/badge/📧_Email-prawin@vyapai.tech-c9d1d9?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 </p>
 
 <br/>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -27,18 +24,25 @@
 ## 🧠 About Me
 
 ```yaml
-name: Prawin Kumar
-role: Founder & Lead Engineer @ VyapAI
-education: IIT Guwahati — BSc Data Science & AI
-focus: Enterprise AI Infrastructure
-philosophy: "We don't build demos. We build systems that work on the infrastructure you already have."
+name:        Prawin Kumar
+education:   IIT Guwahati — BSc Data Science & AI
+practice:    Founder & Lead Engineer @ VyapAI
+portfolio:   prawin.app       # open-source work, public models, experiments
+business:    vyapai.tech      # private AI infrastructure for enterprise clients
+philosophy:  "We don't build demos. We build systems that work on the
+              infrastructure you already have."
 ```
 
-- 🏗️ I architect **production-grade AI systems** — RAG pipelines, offline-first legal AI, clinical trial matchers, M&A analyzers
-- 🔒 Every system I build is **air-gap capable** — zero data leakage, locally hosted LLMs, privacy-first
-- 🎯 I ship **full-stack AI products** with source code, deployment docs, and enterprise integration support
-- 📚 IIT Guwahati — **BSc Data Science & AI** — building with academic rigor and engineering depth
-- 🌍 Building from India, engineering for global enterprises
+I design and ship **production-grade AI systems** — not prototypes. My work lives across two tracks:
+
+- **[prawin.app](https://prawin.app)** — my public lab: open-source software, released models, and independent experiments I build and document in the open
+- **[VyapAI](https://vyapai.tech)** — my client-facing AI engineering practice: private RAG pipelines, offline-first legal & clinical AI, M&A analysis platforms, and multi-agent systems for enterprises
+
+Every system I build is:
+- 🔒 **Air-gap capable** — zero data leakage, locally-hosted LLMs, privacy-first by architecture
+- 📎 **Citation-grounded** — every AI claim is traceable to a verified source document
+- 🔄 **Provider-agnostic** — swap LLMs without rewriting code
+- 🏗️ **Deployment-first** — designed for the infrastructure clients already have, not an ideal cloud
 
 <br/>
 
@@ -46,117 +50,66 @@ philosophy: "We don't build demos. We build systems that work on the infrastruct
 
 <br/>
 
-## 🚀 Flagship Products — VyapAI
+## 🔬 Public Work — [prawin.app](https://prawin.app)
 
-> *Each solution ships with full source code, deployment architecture, and technical documentation.*  
-> *Visit **[vyapai.tech](https://vyapai.tech)** for enterprise inquiries and demos.*
+> Open-source software, released models, and independent experiments I build and ship publicly.
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚖️ NyayAI — Indian Legal Intelligence
-<p>
-  <img src="https://img.shields.io/badge/RAG-Pipeline-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/FAISS-Vector_Search-green?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Ollama-Local_LLM-orange?style=flat-square&labelColor=0d1117" />
-</p>
-
-Local-first legal intelligence system using RAG for Indian legal workflows. Retrieves precedents via FAISS + SQLite, grounds responses against India Code statutory database, and generates advisory assessments via on-device LLM inference.
-
-**Key Engineering:**
-- Dual-store architecture: `legal_cases.db` + `indiacode_corpus.db`
-- GPU-accelerated vector indexing (ROCm/CUDA)
-- BNS/BNSS/BSA latest-law prioritization
-
-</td>
-<td width="50%">
-
-### 🇺🇸 AmicusAI US — Federal Legal Research
-<p>
-  <img src="https://img.shields.io/badge/Air--Gapped-Zero_Leakage-red?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CourtListener-Federal_API-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Reranker-Court_Tiers-purple?style=flat-square&labelColor=0d1117" />
-</p>
-
-Offline-first U.S. legal research engine for Federal Appellate litigation. Citation-grounded memos using local RAG — zero public API exposure. Custom `USFederalReranker` boosts authority-weighted retrieval across court tiers.
-
-**Key Engineering:**
-- Federal scrapers: CourtListener, GovInfo, Congress.gov
-- Jurisdiction-aware semantic reranking
-- Strict prompt policy: verified, in-context evidence only
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 Ortho-Match — Clinical Trial Matcher
-<p>
-  <img src="https://img.shields.io/badge/100%25-Offline-teal?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PubMedBERT-Embeddings-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/HIPAA-Ready-green?style=flat-square&labelColor=0d1117" />
-</p>
-
-AI clinical trial discovery for orthopedic oncology. Hybrid SQL + FAISS matching engine — extracts structured patient profiles from pathology PDFs via on-device NER, then ranks ClinicalTrials.gov candidates by PubMedBERT semantic similarity.
-
-**Key Engineering:**
-- Two-stage matcher: SQL gate → FAISS cosine ranking
-- PDF → structured patient profile via Ollama NER
-- Explainable recommendations with score rationale
-
-</td>
-<td width="50%">
-
-### 📊 VDR Analyzer — M&A Due Diligence
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Citation-Grounded-green?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Multi--Provider-LLM-orange?style=flat-square&labelColor=0d1117" />
-</p>
-
-Offline RAG pipeline for virtual data room document analysis. Ingests PDF contracts, indexes into Qdrant, and delivers citation-grounded answers with document/page references. Three-stage separation: ingestion → retrieval → generation.
-
-**Key Engineering:**
-- UUID5 chunk IDs for idempotent, duplication-safe indexing
-- CPU ingestion + GPU generation pipeline split
-- Provider-agnostic: Ollama, llama.cpp, vLLM, TGI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🏗️ Project Neev — AI Construction Platform
 <p>
-  <img src="https://img.shields.io/badge/Genetic-Algorithm-purple?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/3D-Three.js-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/28--City-Cost_Index-green?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open_Source-Public-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Genetic-Algorithm-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Three.js-3D_Viewer-6e7681?style=flat-square&labelColor=0d1117" />
 </p>
 
-Complete AI construction platform: computer vision plot scanning → regulatory checks → genetic algorithm floor plans → ML cost prediction → 3D visualization → DXF CAD + PDF exports. Covers 28 Indian cities with CPWD DSR 2025 calibration.
+Complete AI construction platform for residential feasibility and cost estimation. Computer vision plot scanning → regulatory checks → genetic algorithm floor plan optimization → ML cost prediction → interactive 3D visualization → DXF CAD & PDF exports. Covers 28 Indian cities with CPWD DSR 2025 calibration.
 
-**Key Engineering:**
-- Genetic algorithm layout optimization
-- Random Forest + CPWD DSR 2025 cost calibration
-- Three.js interactive 3D building viewer
+**Stack:** FastAPI · OpenCV · Scikit-learn · Three.js · Docker
 
 </td>
 <td width="50%">
 
-### 📸 GCam Fusion Studio — Camera Mod Pipeline
+### ⚗️ CASCADE — Computational Chemistry Workspace
 <p>
-  <img src="https://img.shields.io/badge/APK-Builder-blue?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Device-Profiling-green?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Multi--Lens-Tuning-orange?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Public_App-Live-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GNN-Molecular_AI-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/WebGL-3D-6e7681?style=flat-square&labelColor=0d1117" />
 </p>
 
-Build pipeline for device-specific GCam mods. Takes a base APK + config + device profile JSON and produces a normalized build workspace with fusion recipes, patch blueprints, and an unsigned rebuilt APK candidate.
+Browser-native molecular dynamics workspace. Interactive 2D chemical sketcher, WebGL 3D conformer viewer, GNN/MLP atomic fluctuation predictor, ADME profiler, drug repurposing engine, and AI-powered PyMOL assistant — all running in the browser.
 
-**Key Engineering:**
-- Per-sensor tuning: aperture, OIS, HDR, RAW
-- Seamless lens-switch feasibility analysis
-- Low-light shadow cleanup + thermal budgeting
+**Stack:** RDKit · PyTorch · WebGL · Taipy · GNN
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 Craft with AI — AI-Native Engineering Course
+<p>
+  <img src="https://img.shields.io/badge/Open_Source-Educational-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Browser-First-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Curriculum-Interactive-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+A comprehensive, browser-first course that teaches the architecture of modern software engineering and AI systems — designed for building alongside AI coding assistants (Cursor, Copilot, Gemini). Curriculum covers systems thinking, RAG, fine-tuning, and multi-agent patterns.
+
+</td>
+<td width="50%">
+
+### ⚖️ Sunny Legal Assistant — Fine-tuned Legal LLM
+<p>
+  <img src="https://img.shields.io/badge/Public_Model-HuggingFace-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/3B_Params-Fine--tuned-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GGUF-Quantized-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+Domain-specialized 3B parameter LLM fine-tuned on 100,000+ Indian High Court & Supreme Court judgments and 1,000+ legislative Acts. Built on Llama-3.2-3B, quantized to GGUF for lightweight, offline deployment.
+
+**Stack:** Llama-3.2 · Fine-tuning · Legal NLP · GGUF · HuggingFace
 
 </td>
 </tr>
@@ -166,8 +119,77 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
 
-## 🛠️ Tech Arsenal
+## 🏢 Client Work — [VyapAI](https://vyapai.tech)
+
+> Production AI infrastructure engineered for enterprise clients — private deployment, no data leakage.  
+> *Each system ships with full source code, deployment architecture, and technical documentation.*
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚖️ NyayAI — Indian Legal Intelligence
+<p>
+  <img src="https://img.shields.io/badge/RAG-Pipeline-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Offline-First-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+Local-first legal intelligence system for Indian legal workflows. Retrieves precedents via FAISS + SQLite, grounds responses against India Code statutory database, and generates advisory assessments via on-device LLM inference. Dual-store architecture with BNS/BNSS/BSA latest-law prioritization.
+
+</td>
+<td width="50%">
+
+### 🇺🇸 AmicusAI US — Federal Legal Research
+<p>
+  <img src="https://img.shields.io/badge/Air--Gapped-Zero_Leakage-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CourtListener-Federal_API-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Reranker-Court_Tiers-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+Offline-first U.S. legal research engine for Federal Appellate litigation. Citation-grounded memos via local RAG — zero public API exposure. Custom `USFederalReranker` delivers authority-weighted retrieval across court tiers using CourtListener, GovInfo, and Congress.gov scrapers.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔬 Ortho-Match — Clinical Trial Matcher
+<p>
+  <img src="https://img.shields.io/badge/100%25-Offline-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PubMedBERT-Embeddings-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HIPAA-Ready-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+AI clinical trial discovery for orthopedic oncology. Hybrid SQL + FAISS matching engine — extracts structured patient profiles from pathology PDFs via on-device NER, then ranks ClinicalTrials.gov candidates by PubMedBERT semantic similarity. Fully explainable with score rationale.
+
+</td>
+<td width="50%">
+
+### 📊 VDR Analyzer — M&A Due Diligence
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-c9d1d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Citation-Grounded-6e7681?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Multi--Provider-LLM-6e7681?style=flat-square&labelColor=0d1117" />
+</p>
+
+Offline RAG pipeline for virtual data room document analysis. Ingests PDF contracts, indexes into Qdrant, and delivers citation-grounded answers with document/page references. Three-stage: ingestion → retrieval → generation. Provider-agnostic: Ollama, llama.cpp, vLLM, TGI.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://vyapai.tech"><img src="https://img.shields.io/badge/→_Enterprise_Inquiries_&_Demos-vyapai.tech-c9d1d9?style=for-the-badge&labelColor=0d1117" /></a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -199,12 +221,11 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 </p>
@@ -219,7 +240,7 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                    PRODUCTION AI SYSTEMS @ VyapAI                    │
+│                 HOW I ENGINEER AI SYSTEMS @ VyapAI                  │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐              │
@@ -232,9 +253,9 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 │                                                                     │
 │  Design Principles:                                                 │
 │  ✦ Offline-first — air-gap capable, zero data leakage              │
-│  ✦ Citation-grounded — every claim traceable to source              │
-│  ✦ Laptop-first, scalable later — works on modest hardware          │
-│  ✦ Provider-agnostic — swap LLMs without code changes               │
+│  ✦ Citation-grounded — every claim traceable to source document     │
+│  ✦ Deployment-first — works on the hardware clients already own     │
+│  ✦ Provider-agnostic — swap LLMs without rewriting code             │
 │  ✦ Idempotent indexing — re-index safely, never duplicate           │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -247,7 +268,7 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prawinin&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prawinin&style=for-the-badge&color=6e7681&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -256,5 +277,5 @@ Build pipeline for device-specific GCam mods. Takes a base APK + config + device
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=120&section=footer" width="100%" />
 </p>
