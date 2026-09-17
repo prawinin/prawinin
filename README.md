@@ -26,10 +26,9 @@
 ```yaml
 name:        Prawin Kumar
 education:   IIT Guwahati — BSc Data Science & AI
-practice:    Founder & Lead Engineer @ VyapAI
 portfolio:   prawin.app       # open-source work, public models, experiments
-business:    vyapai.tech      # private AI infrastructure for enterprise clients
-philosophy:  "We don't build demos. We build systems that work on the
+work:    vyapai.tech      # private AI infrastructure for enterprise clients
+philosophy:  "Don't build demos. Build systems that work on the
               infrastructure you already have."
 ```
 
@@ -100,7 +99,7 @@ A comprehensive, browser-first course that teaches the architecture of modern so
 </td>
 <td width="50%">
 
-### ⚖️ Sunny Legal Assistant — Fine-tuned Legal LLM
+### ⚖️ Vidhi — Fine-tuned Legal LLM
 <p>
   <img src="https://img.shields.io/badge/Public_Model-HuggingFace-c9d1d9?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/3B_Params-Fine--tuned-6e7681?style=flat-square&labelColor=0d1117" />
