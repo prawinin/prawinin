@@ -27,7 +27,7 @@
 name:        Prawin Kumar
 education:   IIT Guwahati — BSc Data Science & AI
 portfolio:   prawin.app       # open-source work, public models, experiments
-work:    vyapai.tech      # private AI infrastructure for enterprise clients
+work:        vyapai.tech      # private AI infrastructure for enterprise clients
 philosophy:  "Don't build demos. Build systems that work on the
               infrastructure you already have."
 ```
